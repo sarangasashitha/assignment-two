@@ -539,8 +539,6 @@ public class Aardvark {
                 System.out.println("Well done");
                 System.out.println("You get a 3 point bonus for honesty");
                 score+=3;
-//                score++;
-//                score++;
                 cf++;
                 break;
               case 1:
